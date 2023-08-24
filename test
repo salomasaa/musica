@@ -1,0 +1,22 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="description" content="">
+</head>
+<body>
+<details>
+<summary><font size="6">middle of the night </font></summary>
+<audio src="middle of the night .mp3.mp3" controls></audio>
+</details>
+<details>
+<summary><font size="6">Hero</font></summary>
+<audio src="hero.mp3" controls></audio>
+</details>
+<details>
+<summary><font size="6">blame on me</font></summary>
+<audio src="blame on me.mp3" controls></audio>
+</details>
+</body>
+</html>
